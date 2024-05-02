@@ -1,12 +1,9 @@
-Courses App - Solution Code
-================================
-
-Solution code for the Android Basics with Compose: Build a grid list practice problem set.
-
-
-Introduction
-------------
-The Courses app consists of a scrollable grid of course topics.
-
-
-All photos by Romain Guy. All photos are licensed under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+# Membuat Petak
+## Nama : Dani Basse | NIM : 411211051
+hasil akhir pengerjaan
+<table>
+  <tr>
+    <td><img src="screenshoot_01.jpg"/></td>
+    <td><img src="screenshoot_02.jpg"/></td>
+  </tr>
+</table>
